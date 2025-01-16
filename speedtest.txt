@@ -1,0 +1,36 @@
+Processing chunk 1: 'The air hung heavy with the scent of damp earth and the faint tang of minerals as you stood at the edge of the Whispering Maw'
+Chunk 1 processing time: 2.03 seconds
+Processing chunk 2: 'No map marked its location, no bard sang of its secrets, yet the locals whispered of its existence with hushed dread'
+Chunk 2 processing time: 1.76 seconds
+Processing chunk 3: 'Carved into the side of a jagged cliff, its dark mouth yawned like a beast poised to swallow the unwary'
+Chunk 3 processing time: 1.52 seconds
+Processing chunk 4: 'Your guide, a wiry villager with more courage than sense, had refused to go further, muttering about strange lights and the songs of long-dead miners echoing through the night'
+Chunk 4 processing time: 1.81 seconds
+Processing chunk 5: 'Even now, as the daylight waned, you thought you heard faint murmurs—a melody of sorrow and longing, just beyond the threshold'
+Chunk 5 processing time: 1.41 seconds
+Processing chunk 6: 'The cave seemed alive, its gnarled stone walls twisting into grotesque shapes that looked almost intentional'
+Chunk 6 processing time: 1.46 seconds
+Processing chunk 7: 'As if someone, or something, had sculpted them in a frenzy of madness'
+Chunk 7 processing time: 1.46 seconds
+Processing chunk 8: 'Runes, worn by time but still faintly glowing, adorned the entrance, their script ancient and indecipherable'
+Chunk 8 processing time: 1.66 seconds
+Processing chunk 9: 'Inside, a low, steady pulse of light flickered from deep within, faint as a dying ember'
+Chunk 9 processing time: 1.51 seconds
+Processing chunk 10: 'Was it a warning? Or an invitation?
+Suddenly, a chill gust swept out from the cave, extinguishing your torches for a moment and carrying with it a voice—not loud, but unmistakable'
+Chunk 10 processing time: 1.92 seconds
+Processing chunk 11: '"Who dares disturb the silence of the Maw?"
+The words sent shivers down your spines, their source nowhere and everywhere at once'
+Chunk 11 processing time: 1.76 seconds
+Processing chunk 12: 'Whatever lies within is no mere treasure or forgotten ruin'
+Chunk 12 processing time: 1.42 seconds
+Processing chunk 13: 'This place is a secret, older than kings and darker than memory'
+Chunk 13 processing time: 1.48 seconds
+Processing chunk 14: 'As you light your torches again, the choice is clear: step into the unknown, or walk away and leave its mysteries buried'
+Chunk 14 processing time: 1.74 seconds
+Processing chunk 15: 'But then again, who walks away from destiny?'
+Chunk 15 processing time: 1.59 seconds
+
+Total Processing Time: 24.33 seconds
+Audio Length:  105.2 seconds
+Speed: 4.29 times faster than real-time!!!
